@@ -7,5 +7,8 @@ module.exports = {
       "firebasestorage.googleapis.com",
       "scontent.fias1-1.fna.fbcdn.net"
     ],
-  }
+  },
+  eslint: {
+    dirs: ['pages', 'utils'], // Only run ESLint on the 'pages' and 'utils' directories during production builds (next build)
+  },
 };
