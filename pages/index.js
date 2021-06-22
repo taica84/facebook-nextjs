@@ -50,4 +50,4 @@ export const getServerSideProps = async (context) => {
 
 
 
-// min 2.24 (videocameraicon , emojiicon)
+// min 2.43.30 (state for image upload)
