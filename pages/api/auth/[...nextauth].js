@@ -12,5 +12,5 @@ export default NextAuth({
   ],
 
   // A database is optional, but required to persist accounts in a database
-  database:'https://facebook-account.vercel.app/',
+  database:'https://facebook-clone-taica84.herokuapp.com',
 });
