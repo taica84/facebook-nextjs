@@ -63,4 +63,3 @@ export const getServerSideProps = async (context) => {
 
 
 
-// min 3.06 (create Post component)
